@@ -39,4 +39,4 @@ This is just a small example to demonstrate what kind of apps you can build with
 
 For questions and support, please use the [Slack chatroom](https://jasonette.herokuapp.com)
 
-[![slack](https://raw.githubusercontent.com/gliechtenstein/images/master/slack.png)](https://jasonette.herokuapp.com)
+[![slack](https://raw.githubusercontent.com/gliechtenstein/images/master/slack.png)](http://jasonette.slack.com/)
