@@ -37,6 +37,6 @@ There are three JSON files here: `index.json`, `popular.json`, and `detail.json`
 ##Want more?
 This is just a small example to demonstrate what kind of apps you can build with nothing but JSON. [Learn more about Jasonette](https://www.jasonette.com)
 
-For questions and support, please use the [Slack chatroom](https://jasonette.herokuapp.com)
+For questions and support, please use the [Slack chatroom](https://jasonette.now.sh/)
 
-[![slack](https://raw.githubusercontent.com/gliechtenstein/images/master/slack.png)](http://jasonette.slack.com/)
+[![slack](https://raw.githubusercontent.com/gliechtenstein/images/master/slack.png)](https://jasonette.now.sh/)
